@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.0266288, 
+                    41.04776165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Ortak\u00f6y Sahili - @ibbbeyazmasa in Be\u015fikta\u015f, T\u00fcrkiye https://t.co/jjCrTsKNTw", 
+                "created_at": "Sat May 27 19:51:50 +0000 2017"
+            }
+        }
+    ]
+}

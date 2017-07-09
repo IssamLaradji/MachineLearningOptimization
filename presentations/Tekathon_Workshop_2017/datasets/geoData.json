@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    30.53804872, 
+                    36.50894521
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Rixos Premium Tekirova - @rixoshotels in Antalya https://t.co/Mqe1DURGoN", 
+                "created_at": "Sat May 27 16:31:41 +0000 2017"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.96967331, 
+                    40.67252608
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Grand Army Plaza Greenmarket - @gapgreenmarket in Brooklyn, NY https://t.co/tUbLP7ONom", 
+                "created_at": "Sat May 27 16:31:41 +0000 2017"
+            }
+        }
+    ]
+}

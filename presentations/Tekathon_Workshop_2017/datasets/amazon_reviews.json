@@ -1,0 +1,58 @@
+[
+    {
+        "url": "http://www.amazon.com/dp/B00NM76D5O", 
+        "avg rating": 5.0, 
+        "price": 11.0, 
+        "name": "Fifa 15 PS4", 
+        "n_reviews": 1
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B01GKH5Q9G", 
+        "avg rating": 4.45, 
+        "price": 30, 
+        "name": "FIFA 17 - PlayStation 4", 
+        "n_reviews": 863
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B00YC7ECXS", 
+        "avg rating": 3.66, 
+        "price": 15.0, 
+        "name": "FIFA 16 - Standard Edition - PlayStation 4", 
+        "n_reviews": 704
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B01GKH5QZ0", 
+        "avg rating": 4.32, 
+        "price": 34.0, 
+        "name": "FIFA 17 Deluxe Edition - Xbox One", 
+        "n_reviews": 48
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B01LWNWDXS", 
+        "avg rating": 2.8500000000000005, 
+        "price": 28.0, 
+        "name": "FIFA 17 (Xbox One)", 
+        "n_reviews": 15
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B00KPY1GFY", 
+        "avg rating": 4.5600000000000005, 
+        "price": 17.0, 
+        "name": "FIFA 15 - Xbox 360", 
+        "n_reviews": 537
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B01GW8YYJQ", 
+        "avg rating": 3.84, 
+        "price": 54.0, 
+        "name": "FIFA 17 - SteelBook Edition - PlayStation 4", 
+        "n_reviews": 14
+    }, 
+    {
+        "url": "http://www.amazon.com/dp/B00CD90R4K", 
+        "avg rating": 4.22, 
+        "price": 9.0, 
+        "name": "FIFA 14 - Xbox 360", 
+        "n_reviews": 543
+    }
+]

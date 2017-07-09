@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.98141111, 
+                    29.32856089
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "I'm at Starbucks in Adailiya https://t.co/RddsvCsQ5i", 
+                "created_at": "Sat May 27 19:45:26 +0000 2017"
+            }
+        }
+    ]
+}
