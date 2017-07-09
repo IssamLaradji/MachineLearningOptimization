@@ -2,7 +2,7 @@ from os import sys, path
 
 import numpy as np
 
-sys.path.append(path.dirname(path.dirname(path.dirname(path.abspath(__file__)))))
+sys.path.append(path.dirname(path.dirname(path.abspath(__file__))))
 import dataset_utils as du
 import pytorch_kit.models as tm
 import image_utils as iu
